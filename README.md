@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Cena-basabr/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Cena-basabr/LeetCode/tree/master/0342-power-of-four) |
+| [3321-type-of-triangle](https://github.com/Cena-basabr/LeetCode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3321-type-of-triangle](https://github.com/Cena-basabr/LeetCode/tree/master/3321-type-of-triangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cena-basabr/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Cena-basabr/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/Cena-basabr/LeetCode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
