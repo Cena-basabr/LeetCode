@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Cena-basabr/LeetCode/tree/master/0012-integer-to-roman) |
 | [0326-power-of-three](https://github.com/Cena-basabr/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Cena-basabr/LeetCode/tree/master/0342-power-of-four) |
 | [3321-type-of-triangle](https://github.com/Cena-basabr/LeetCode/tree/master/3321-type-of-triangle) |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/Cena-basabr/LeetCode/tree/master/3321-type-of-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Cena-basabr/LeetCode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Cena-basabr/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
