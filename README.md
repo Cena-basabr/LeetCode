@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Cena-basabr/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Cena-basabr/LeetCode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Cena-basabr/LeetCode/tree/master/0029-divide-two-integers) |
 | [0326-power-of-three](https://github.com/Cena-basabr/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Cena-basabr/LeetCode/tree/master/0342-power-of-four) |
 | [3321-type-of-triangle](https://github.com/Cena-basabr/LeetCode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Cena-basabr/LeetCode/tree/master/0029-divide-two-integers) |
 | [0342-power-of-four](https://github.com/Cena-basabr/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
