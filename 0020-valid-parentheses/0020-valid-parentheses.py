@@ -16,9 +16,9 @@ class Solution:
 solver = Solution()
 
 
-print(f"'()': {solver.isValid('()')}")               # Expected: True
-print(f"'()[]{{}}': {solver.isValid('()[]{}')}")     # Expected: True
-print(f"'(]': {solver.isValid('(]')}")               # Expected: False
-print(f"'([)]': {solver.isValid('([)]')}")           # Expected: False
-print(f"'{{[]}}': {solver.isValid('{[]}')}")         # Expected: True
-print(f"'[': {solver.isValid('[')}")                 # Expected: False
+print(f"'()': {solver.isValid('()')}")               
+print(f"'()[]{{}}': {solver.isValid('()[]{}')}")    
+print(f"'(]': {solver.isValid('(]')}")              
+print(f"'([)]': {solver.isValid('([)]')}")           
+print(f"'{{[]}}': {solver.isValid('{[]}')}")         
+print(f"'[': {solver.isValid('[')}")               
