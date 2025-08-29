@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Cena-basabr/LeetCode/tree/master/0027-remove-element) |
 | [3321-type-of-triangle](https://github.com/Cena-basabr/LeetCode/tree/master/3321-type-of-triangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cena-basabr/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Cena-basabr/LeetCode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Cena-basabr/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
