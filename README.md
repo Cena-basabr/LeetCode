@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Cena-basabr/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Cena-basabr/LeetCode/tree/master/0027-remove-element) |
 | [3321-type-of-triangle](https://github.com/Cena-basabr/LeetCode/tree/master/3321-type-of-triangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cena-basabr/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Cena-basabr/LeetCode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Cena-basabr/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Cena-basabr/LeetCode/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Cena-basabr/LeetCode/tree/master/0027-remove-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Cena-basabr/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
